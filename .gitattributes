@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.java text
+*.xml text
+*.properties text
+*.md text
+*.png binary
+*.jpg binary
